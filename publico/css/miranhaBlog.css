@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.h1{
+    opacity: 100%;
+    background-image: linear-gradient(180deg, red, blue);
+    background-size: cover;
+    display: flex;
+    border-bottom: 7px #340241 double;
+    box-shadow: 0 5px 0 rgb(5, 5, 61);
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    padding: 10px;
+}
+h1{
+    text-shadow: rgb(94, 57, 57) 0.1em 0.1em;
+    color: white;
+    text-shadow: black;
+    font-size: 38px;
+}
